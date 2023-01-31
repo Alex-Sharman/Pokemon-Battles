@@ -1,7 +1,7 @@
 # Pokemon-Battles
 Predicting the outcomes of Pokemon battles  with ~95% accuracy using machine learning
 
---Data loading performed in data_load_capstone.ipbny
+--Data loading & inspection performed in data_load_capstone.ipbny
 
 --Exploration of data performed in Weedle_Data_Explore.ipbny
 
